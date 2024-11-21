@@ -1,7 +1,7 @@
 # Визуализатор графа зависимостей
 Зависимости пакетов из архива 
 `Packages.gz` генерируются PNG-изображение графа зависимостей.
-[](https://github.com/JobsLament/Dependency-graph-v2/blob/main/examle/image_2024-11-21_09-36-53.png)
+[example](https://github.com/JobsLament/Dependency-graph-v2/blob/main/examle/image_2024-11-21_09-36-53.png)
 
 ## Описание
 Этот скрипт обрабатывает `.gz` архив, содержащий информацию о пакетах 
