@@ -1,0 +1,5 @@
+<config>
+    <graphviz_path>/usr/bin/dot</graphviz_path>
+    <package_name>Packages</package_name>
+    <output_path>/home/jobslament/Desktop/vscode_pr/2/dependencies.png</output_path>
+</config>
